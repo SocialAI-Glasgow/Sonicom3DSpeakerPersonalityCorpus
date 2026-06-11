@@ -9,7 +9,7 @@ The corpus can be downloaded at the following link: https: //github.com/S3DSPC/S
 
 The distribution includes the following materials:
 - Audio recordings (720 items, 360 for each channel);
-- k-fold lists (k = 4 lists corresponding to the folds to be
+- k-fold lists (k = 5 lists corresponding to the folds to be
 used in a k-fold protocol);
 - Python scripts for classification, regression, and feature
 extraction (6 items);
